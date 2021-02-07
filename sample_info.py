@@ -22,9 +22,9 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm @TSNM_CHNLS bot**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Here you can search THE 100  in inline mode. Just press follwing buttons and start searching.
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
